@@ -1,0 +1,11 @@
+/build
+/install
+/out
+.DS_Store
+.vscode
+__pycache__
+env_python*
+*.pyc
+*.pyo
+*.pyd
+CMakeUserPresets.json
